@@ -24,7 +24,7 @@ public class PuzzleGrid extends JPanel{
     // Ukuran dimensi grid puzzle
     private int dimension; 
     // Warna foreground
-    private static final Color FOREGROUND_COLOR = new Color(214, 103, 59); 
+    private static final Color FOREGROUND_COLOR = new Color(32, 42, 68); 
     // Objek random untuk mengacak puzzle
     private static final Random RANDOM = new Random(); 
     // Menyimpan tile di array 1 dimensi
